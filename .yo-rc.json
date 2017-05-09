@@ -4,7 +4,7 @@
     "importedSpec": "/Users/swang/code/email/src/swagger.yaml",
     "name": "Email",
     "repo": "cosmostail/doc",
-    "splitSpec": true,
+    "splitSpec": false,
     "samples": true,
     "installSwaggerUI": true
   }
