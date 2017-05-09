@@ -1,7 +1,7 @@
 {
   "generator-openapi-repo": {
     "importExistingSpec": true,
-    "importedSpec": "/Users/swang/code/email/src/swagger.yaml",
+    "importedSpec": "swagger.yaml",
     "name": "Email",
     "repo": "cosmostail/doc",
     "splitSpec": false,
